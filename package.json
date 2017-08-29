@@ -1,0 +1,15 @@
+{
+  "name": "sara-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Boris Cherny <boris@performancejs.com> (https://performancejs.com)",
+  "license": "MIT",
+  "dependencies": {
+    "ava": "^0.22.0",
+    "request": "^2.81.0"
+  }
+}
